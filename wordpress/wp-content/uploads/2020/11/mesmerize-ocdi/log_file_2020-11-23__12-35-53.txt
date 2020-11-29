@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Personal were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://192.168.1.142
+Data file = /var/www/html/wp-content/uploads/2020/11/mesmerize-ocdi/demo-content-import-file_2020-11-23__12-35-53.xml
+Widget file = /var/www/html/wp-content/uploads/2020/11/mesmerize-ocdi/demo-widgets-import-file_2020-11-23__12-35-53.json
+Customizer file = /var/www/html/wp-content/uploads/2020/11/mesmerize-ocdi/demo-customizer-import-file_2020-11-23__12-35-53.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Oblast widgetu boční lišty : 
+
+Obrázek - Hey! I&#039;m John Doe! - Imported
+Vyhledávání - No Title - Widget already exists
+Nejnovější příspěvky - No Title - Widget already exists
+Nejnovější komentáře - No Title - Widget already exists
+Archivy - No Title - Widget already exists
+Rubriky - No Title - Widget already exists
+Štítky - Tags - Imported
+Základní informace - No Title - Widget already exists
+
+Pages Sidebar : 
+
+Vyhledávání - Search - Imported
+Stránky - Pages - Imported
+Text - Text Box - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
